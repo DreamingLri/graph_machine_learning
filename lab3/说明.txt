@@ -1,0 +1,5 @@
+lab3_work.py：提供给同学们做任务的代码
+lab3_work.jpynb：提供给同学们做任务的代码
+lab3.py：提供给同学们的含参考答案的代码
+torch_scatter和torch_sparse环境安装参考：https://blog.csdn.net/dream__1/article/details/122433061
+dataset：需要一起提供给同学们，作为Planetoid下的Cora数据集，参考文章：https://blog.csdn.net/qq_43760191/article/details/121912512

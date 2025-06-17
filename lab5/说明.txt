@@ -1,0 +1,5 @@
+lab4.md /lab4.pdf：提供给同学们的实验4的参考文档 
+lab4_work.py：提供给同学们做任务的代码
+lab4_work.jpynb：提供给同学们做任务的代码
+lab4.py：提供给同学们的含参考答案的代码
+torch_scatter和torch_sparse环境安装参考：https://blog.csdn.net/dream__1/article/details/122433061
